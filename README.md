@@ -1,9 +1,9 @@
-# 🚀 Malvin-Session-Generator
+# 🚀 DARK-KNIGHT-Session-Generator
 
 ## 📊 Visitor Counter
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/XdKing2/count.svg" alt="visitor counter"/>
+  <img src="https://profile-counter.glitch.me/DARK-KNIGHT-PAIR/count.svg" alt="visitor counter"/>
 </p>
 
 ---
@@ -24,11 +24,9 @@ Generate session IDs for WhatsApp bots using [`@whiskeysockets/baileys`](https:/
 
 - 🔐 Generates sessions for **any Baileys bot**
 - ☁️ Stores sessions securely with **MEGA**
-- 📱 Web-based **QR Pairing & Pair Pairing**
+- 📱 Web-based **Pair Pairing**
 - 🚀 One-click deploy to:
   - Heroku
-  - Render
-  - Koyeb
   - Self-hosting platforms
 
 ---
@@ -38,8 +36,7 @@ Generate session IDs for WhatsApp bots using [`@whiskeysockets/baileys`](https:/
 | Platform | Deploy |
 |---------|--------|
 | 🟣 Heroku | [![Deploy to Heroku](https://img.shields.io/badge/DEPLOY-HEROKU-purple?style=for-the-badge&logo=heroku)](https://dashboard.heroku.com/new?template=https://github.com/XdKing2/malvin-pair) |
-| 🔵 Render | [![Deploy to Render](https://img.shields.io/badge/DEPLOY-RENDER-blue?style=for-the-badge&logo=render)](https://dashboard.render.com/) |
-| ⚫ Koyeb | [![Deploy to Koyeb](https://img.shields.io/badge/DEPLOY-KOYEB-black?style=for-the-badge&logo=koyeb)](https://app.koyeb.com/) |
+
 
 ---
 
@@ -50,15 +47,21 @@ Generate session IDs for WhatsApp bots using [`@whiskeysockets/baileys`](https:/
 
 ---
 
-## 👑 Owner
+## 👑 Owner & addmin....
 
 <p align="center">
   <a href="https://github.com/XdKing2">
-    <img src="https://github.com/XdKing2.png" width="200" height="200" alt="Malvin King"/>
+    <img src="https://files.catbox.moe/brlkte.jpg" width="200" height="200" alt="DARK KNIGHT"/>
   </a>
 </p>
 
-📬 [`Contact on WhatsApp`](https://wa.me/263780166288)
+📬 [`Contact on WhatsApp dark knight owner tenuka`](https://wa.me/94763934860)
+
+📬 [`Contact on WhatsApp dark knight addmin sachithra`](https://wa.me/94761332610)
+
+📬 [`Contact on WhatsApp dark knight addmin kavidu`](https://wa.me/94761332610)
+
+
 
 ---
 

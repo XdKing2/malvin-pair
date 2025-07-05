@@ -1,9 +1,9 @@
 {
-    "name": "Malvin Session Generator",
+    "name": "Dark knight Session Generator",
     "description": "Web Session Generator",
     "logo": "https://i.imgur.com/teQzVR1.jpeg",
     "repository": "https://github.com/XdKing2/malvin-pair",
-    "keywords": ["MalvinTech","XdKing2"],
+    "keywords": ["Dark knight","XdKing2"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
